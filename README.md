@@ -32,6 +32,4 @@ HTML, CSS, JavaScript, Canvas API, Node.js y JSON.
 - Uso de Canvas para renderizado y animaciones
 - Detección de colisiones y movimiento en tiempo real
 - Comunicación cliente-servidor con fetch y Express
-- Pensar un proyecto no solo a nivel técnico, sino como producto
-
-
+- Pensar un proyecto no solo a nivel técnico, sino como PRODUCTO
