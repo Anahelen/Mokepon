@@ -27,7 +27,7 @@ Mokepon es un videojuego web interactivo donde el jugador elige una mascota elem
 ## 🛠️ Tecnologías
 HTML, CSS, JavaScript, Canvas API, Node.js y JSON.
 ---
-## 🧠 Lo que aprendí con este proyecto
+## 🧠 Aprendizaje
 - Manejo del DOM y lógica de juego en JavaScript
 - Uso de Canvas para renderizado y animaciones
 - Detección de colisiones y movimiento en tiempo real
