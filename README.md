@@ -1,41 +1,37 @@
 # 🔥 💧 🌱 Mokepon
-Mokepon es un videojuego web interactivo donde eliges una mascota, recorres un mapa, te encuentras con enemigos y luchas usando ataques elementales.  
-Incluye movimiento en tiempo real, colisiones, un sistema de combate por turnos y comunicación con un servidor para modo multijugador.
 
+Mokepon es un videojuego web interactivo donde el jugador elige una mascota elemental, explora un mapa y combate contra enemigos en batallas por turnos.
 ---
-
-## 🎮 Características principales
-- Selección de mascota (Hipodoge, Capipepo o Ratigueya).
-- Movimiento por mapa usando teclado o botones táctiles.
-- Sistema de colisiones para iniciar batallas.
-- Combate por turnos con ataques de Fuego, Agua y Tierra.
-- Música, animaciones y UI personalizada.
-- Comunicación con servidor mediante **fetch** y **Express**.
-- Funciona tanto en PC como en móvil (responsive).
-
+## 🎯 Apto para:
+- Personas que juegan desde PC o móvil
+- Usuarios que buscan partidas cortas y dinámicas
 ---
-
-## 🚀 Cómo usarlo
-1. Abre el archivo **index.html** en tu navegador.
-2. Elige tu mokepon y presiona **"Seleccionar"**.
-3. Recorre el mapa con:
-   - Teclas de flecha, o  
-   - Botones táctiles en pantalla.
-4. Cuando choques con un enemigo, entrarás en combate.
-5. Selecciona **5 ataques** (🔥 💧 🌱).
-6. Revisa quién ganó y presiona **"Reiniciar"** si deseas volver a jugar.
-
+## 📊 Posibles métricas de éxito
+- Tiempo promedio de juego por sesión  
+- Retención de usuarios (usuarios que vuelven)  
+- Cantidad de batallas jugadas  
+- Porcentaje de partidas completadas  
 ---
-
-## 🛠️ Tecnologías utilizadas
-- **HTML5** – estructura del juego.
-- **CSS3** – estilos, diseño responsive y animaciones.
-- **JavaScript** – lógica del juego, ataques, colisiones, movimiento.
-- **Node.js + Express** – servidor para posiciones y ataques.
-- **JSON** – configuración del proyecto.
-- **Canvas API** – renderizado del mapa y sprites.
-
+## 💰 Monetización potencial
+- Anuncios entre partidas
+- Skins o mascotas exclusivas
+- Versión premium sin anuncios
 ---
+## 🚀 Si esto fuera un producto real, haría…
+- Sistema de progreso y niveles
+- Guardado de partidas
+- Ranking de jugadores
+- Más tipos de ataques y mascotas
+- Eventos temporales para mejorar retención
+---
+## 🛠️ Tecnologías
+HTML, CSS, JavaScript, Canvas API, Node.js y JSON.
+---
+## 🧠 Lo que aprendí con este proyecto
+- Manejo del DOM y lógica de juego en JavaScript
+- Uso de Canvas para renderizado y animaciones
+- Detección de colisiones y movimiento en tiempo real
+- Comunicación cliente-servidor con fetch y Express
+- Pensar un proyecto no solo a nivel técnico, sino como producto
 
-## 📁 Estructura del proyecto
 
